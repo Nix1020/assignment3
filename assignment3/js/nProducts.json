@@ -1,0 +1,59 @@
+{
+"Store" : "Amazon",
+"Product" : [
+  {
+    "name" : "Cat Butt Tissue Holder", 
+    "price" : 15.98,
+    "discription" : [
+      "Keep your tissues close at hand with the help of your trusty feline friend.", 
+      "Measures 12.5 inches long x 9.25 wide, fits standard square tissue boxes.", 
+      "Each Cat Butt tissue holder is made of molded resin that's easy to clean and designed to last. Hand wash is warm soapy water when needed." 
+    ],
+    "features" : "Hides that gross tissue box",
+    "image": "CatButt.jpg"
+  },
+  {
+    "name" : "A hand squirrel", 
+    "price" : 999.99,
+    "discription" : [
+      "Set of 5 finger puppets", 
+      "Includes 4 paws & 1 head", 
+      "Your hand will climb trees and forage for nuts" 
+    ],
+    "features" : "You'll forget your hand isn't a real squirrel",
+    "image": "hands.jpg"
+  },
+  {
+    "name" : "Human fat", 
+    "price" : 1.15,
+    "discription" : [
+      "Weights one pound", 
+      "SO REAL YOU'll THROW UP!", 
+      "You can now see what your inside is outside" 
+    ],
+    "features" : "If you've ever needed a means of convincing yourself not to go back for seconds, this rubbery pound of replica fat is sure to do the trick",
+    "image": "fat.jpg"
+  },
+  {
+    "name" : "Godzilla lawn gnome", 
+    "price" : 19.99,
+    "discription" : [
+      "This hand-painted ceramic garden gnome statue is made of durable cast poly resin so that it can remain outdoors and withstand the elements all year long", 
+      "The Great Garden Gnome Massacre statue is not just limited to outdoor spaces.", 
+      "Small children will run in fear!" 
+    ],
+    "features" : "Let those pesky, roving neighborhood gnomes know where they're not welcome",
+    "image": "godzilla.jpg"
+  },{
+    "name" : "Inflatable cat horn", 
+    "price" : 50.32,
+    "discription" : [
+      "High Quality Vinyl", 
+      "Four-Point Elastic Strap", 
+      "Makes Your Cat Extraordinary" 
+    ],
+    "features" : "You probably already think your cat is quite the unicorn.",
+    "image": "inflatable-cat-horn.jpg"
+  }
+  ]
+}
