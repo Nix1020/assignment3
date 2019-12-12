@@ -1,0 +1,42 @@
+{
+"Store" : "Amazon",
+"Product" : [
+  {
+    "name" : "Cat Butt Tissue Holder", 
+    "price" : 15,
+    "type" : "Bathroom Accessories", 
+    "discription" : [
+      "Keep your tissues close at hand with the help of your trusty feline friend.", 
+      "Measures 12.5 inches long x 9.25 wide, fits standard square tissue boxes.", 
+      "Each Cat Butt tissue holder is made of molded resin that's easy to clean and designed to last. Hand wash is warm soapy water when needed." 
+    ],
+    "features" : "hides that gross tissue box",
+    "image": "CatButt.jpg"
+  },
+  
+  {
+    "name" : "Perfect Peach Mango", 
+    "calories" : 560,
+    "type" : "sorbet",
+    "ingredients" : [
+      "peach puree", "mango", "honey"
+    ],
+    "image" : "peach-mango.svg"
+  },
+  
+  {
+    "name" : "Stupendous Strawberry",
+    "calories" : 1400,
+    "type" : "frozen yogurt",
+    "ingredients" : [
+      "strawberries", 
+      "goats milk", 
+      "wheat grass", 
+      "chocolate",
+      "blue cheese",
+      "sprinkles"
+    ],
+    "image" : "strawberry-sprinkle.svg"
+    }
+  ]
+}
