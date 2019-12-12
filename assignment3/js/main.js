@@ -5,7 +5,7 @@ let header = document.querySelector('header');
 let section = document.querySelector('section');
 
 //Step Two - create a variable to store request URL 
-let requestURL = "https://Nix1020.github.io/assignment3/js/nProducts.json";
+let requestURL = "https://Nix1020.github.io/assignment3/assignment3/js/nProducts.json";
 
 // Step Three - create a new XHR object 
 let request = new XMLHttpRequest(); 
@@ -63,7 +63,7 @@ function Product(jsonObj) {
     let list = document.createElement('ul');
     
     //grab the data associated with image to set the src and alt attribute
-    img.setAttribute('src', 'https://Nix1020.github.io/assignment3/images/' + Product[i].image);
+    img.setAttribute('src', 'https://Nix1020.github.io/assignment3/assignment3/images/' + Product[i].image);
     img.setAttribute('alt', Product[i].image );
     
     h2.textContent = Product[i].name; 
