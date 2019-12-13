@@ -24,10 +24,10 @@ request.send();
 
 // Step Seven - adding an event handler that listens for onload event of the JSON file/object 
 request.onload = function() {
-  let iScreamInc = request.response; 
-  console.log(iScreamInc);
-  populateHeader(iScreamInc); 
-  Product(iScreamInc);  
+  let Amazone = request.response; 
+  console.log(Amazone);
+  populateHeader(Amazone); 
+  Product(Amazone);  
 }
 
 // Step Eight - set up populateHeader function to fill in the header function 
